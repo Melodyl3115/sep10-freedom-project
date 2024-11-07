@@ -1,7 +1,7 @@
-# Entry 2
-##### X/X/XX
+# Blog 2
+##### Business
 
-Text
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
